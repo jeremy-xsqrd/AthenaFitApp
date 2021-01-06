@@ -1,0 +1,41 @@
+
+//--FONTS
+$font-body: 'Roboto', sans-serif;
+$font-headings: 'Roboto', sans-serif;
+
+//BODY
+$color-body: #cbcdda;
+$bgcolor-body: #1d212c;
+
+//CUSTOM COLORS
+$color-blue: #292467;
+$color-lighterblue: #474283;
+$color-darkblue: #171652;
+$color-purple: #bf62f9;
+$color-darkerpurple: #7332e4;
+$color-lightgreen: #69ff9b;
+$color-darkgray: #1d212c;
+$color-gray: #434959;
+
+
+
+//CUSTOM GRADIENTS BACKGROUNDS
+.gradient-fushiapurple{
+	background-color:#D946EF !important;
+	background: linear-gradient(60deg, #D946EF 0%,#9333EA 100%) !important;
+}
+//CUSTOM GRADIENTS BACKGROUNDS
+.gradient-cyanlightblue{
+	background-color: #22D3EE !important;
+	background: linear-gradient(60deg, #22D3EE 0%,#0EA5E9 100%) !important;
+}
+//CUSTOM GRADIENTS BACKGROUNDS
+.gradient-lightgreen{
+	background-color: #68fe9a !important;
+	background: linear-gradient(60deg, #68fe9a 0%, #43dca4 100%) !important;
+}
+
+
+
+
+
