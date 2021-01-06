@@ -6,8 +6,8 @@
 <title>Asset 76</title>
 <g>
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="15.5791" y1="99.5" x2="183.4209" y2="99.5">
-		<stop  offset="0" style="stop-color:#D946EF"/>
-		<stop  offset="1" style="stop-color:#9333EA"/>
+		<stop  offset="0" style="stop-color:#68FE9A"/>
+		<stop  offset="1" style="stop-color:#43DCA4"/>
 	</linearGradient>
 	<path fill="url(#SVGID_1_)" d="M162.473,131.932l-20.618-7.16l22.966-91.865c6.334-4.131,12.003-9.351,16.681-15.495
 		c2.171-2.857,1.614-6.935-1.243-9.107c-2.857-2.173-6.935-1.617-9.107,1.243c-10.022,13.214-25.997,21.18-42.284,21.162
@@ -22,8 +22,8 @@
 		c3.454,0,6.997,0.523,10.562,1.652l85.314,29.623c7.441,2.602,12.265,9.719,12.244,16.998
 		C170.347,171.348,162.748,178.947,152.598,179.02z"/>
 	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="63.042" y1="149.9268" x2="129.4346" y2="149.9268">
-		<stop  offset="0" style="stop-color:#D946EF"/>
-		<stop  offset="1" style="stop-color:#9333EA"/>
+		<stop  offset="0" style="stop-color:#68FE9A"/>
+		<stop  offset="1" style="stop-color:#43DCA4"/>
 	</linearGradient>
 	<path fill="url(#SVGID_2_)" d="M122.934,143.428h-12.185c-2.844-10.264-12.242-17.795-23.411-17.799
 		c-13.421,0.004-24.292,10.873-24.296,24.299c0.004,13.42,10.875,24.291,24.296,24.297c11.168-0.006,20.566-7.537,23.411-17.797
